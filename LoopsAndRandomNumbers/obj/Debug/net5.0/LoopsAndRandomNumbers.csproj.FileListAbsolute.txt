@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.exe
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.deps.json
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\bin\Debug\net5.0\LoopsAndRandomNumbers.pdb
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\ref\LoopsAndRandomNumbers.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.pdb
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\LoopsAndRandomNumbers\obj\Debug\net5.0\LoopsAndRandomNumbers.genruntimeconfig.cache

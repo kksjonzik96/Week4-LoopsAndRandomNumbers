@@ -1,0 +1,16 @@
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\GuessGameInfinite.exe
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\GuessGameInfinite.deps.json
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\GuessGameInfinite.runtimeconfig.json
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\GuessGameInfinite.runtimeconfig.dev.json
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\GuessGameInfinite.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\ref\GuessGameInfinite.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\bin\Debug\net5.0\GuessGameInfinite.pdb
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.csproj.AssemblyReference.cache
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.AssemblyInfoInputs.cache
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.AssemblyInfo.cs
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.csproj.CoreCompileInputs.cache
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\ref\GuessGameInfinite.dll
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.pdb
+D:\Programmeerimise algkursus (RKE132)\LoopsAndRandomNumbers\GuessGameInfinite\obj\Debug\net5.0\GuessGameInfinite.genruntimeconfig.cache
